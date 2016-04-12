@@ -1,7 +1,7 @@
 name: emilvesterberg
 favicon: null
-layout_spectrum: 0.46957
-typography_spectrum: 0.9711437488440424
+layout_spectrum: 0.27451
+typography_spectrum: 0.73153
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#2667FF'
     - '#3B28CC'
   brandStrength: 0.6385816950351
-  lightness: 0.8703833157196641
-  saturation: 0.06554570840671659
-  rhythmicContrast: 0.8625449538230896
+  lightness: 1
+  saturation: 0.875
+  rhythmicContrast: 0.75
 purpose: []
