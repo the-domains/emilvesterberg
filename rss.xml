@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[emilvesterberg]]></title>
         <description><![CDATA[emilvesterberg]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/emilvesterberg/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 12 Apr 2016 14:19:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 12 Apr 2016 15:41:44 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/emilvesterberg/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[VESTERKRÖK NO.1]]></title>
-            <description><![CDATA[<article><h1>VESTERKRÖK NO.1</h1><p>”Single vs Blended”. </p></article>]]></description>
+            <description><![CDATA[<article><h1>VESTERKRÖK NO.1</h1><p>”Single vs Blended”</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/59109da5-ad13-4b82-9e92-3c774d080c39.jpg"></article>]]></description>
             <link>https://www.facebook.com/groups/678021639003958/permalink/684722465000542/</link>
             <guid isPermaLink="false">7f57c409-3de7-4e34-ae02-038a6fde397d</guid>
-            <pubDate>Tue, 12 Apr 2016 14:18:58 GMT</pubDate>
+            <pubDate>Tue, 12 Apr 2016 15:41:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
