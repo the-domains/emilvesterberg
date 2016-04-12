@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[emilvesterberg]]></title>
+        <description><![CDATA[emilvesterberg]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 12 Apr 2016 14:19:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[VESTERKRÖK NO.1]]></title>
+            <description><![CDATA[<article><h1>VESTERKRÖK NO.1</h1><p>”Single vs Blended”. </p></article>]]></description>
+            <link>https://www.facebook.com/groups/678021639003958/permalink/684722465000542/</link>
+            <guid isPermaLink="false">7f57c409-3de7-4e34-ae02-038a6fde397d</guid>
+            <pubDate>Tue, 12 Apr 2016 14:18:58 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
