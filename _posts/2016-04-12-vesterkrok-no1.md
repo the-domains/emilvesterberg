@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://www.facebook.com/groups/678021639003958/permalink/6847224
 inLanguage: null
 keywords: []
 description: 'Innan jag kommer in närmare på månadens tema och skillnaderna mellan single och blended malt whisky ska jag dela med mig av lite grundläggande whiskykunskap. Det finns ett antal typer av whisky och de mest kända är: Skottland – Single malt whisky, grain whisky och blended malt whisky  Irland - Irländsk whiskey USA – Boubon Kanada – Rey whisky och wheat whisky '
-datePublished: '2016-04-26T11:15:25.313Z'
-dateModified: '2016-04-26T11:15:18.056Z'
+datePublished: '2016-04-26T11:16:47.750Z'
+dateModified: '2016-04-26T11:16:33.537Z'
 author: []
 title: ''
 sourcePath: _posts/2016-04-12-vesterkrok-no1.md
